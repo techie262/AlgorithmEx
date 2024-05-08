@@ -15,7 +15,12 @@ class MainVC: UIViewController {
     }
     
     func run() {
-        Solution().run()
+        Solution.run()
+        Solution1108.run()
+        Solution2011.run()
+        Solution771.run()
+        Solution2000.run()
+        Solution1221.run()
     }
 
 }

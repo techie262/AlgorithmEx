@@ -1,3 +1,10 @@
+//
+//  1108. Defanging an IP Address.swift
+//  AlgorithmEx
+//
+//  Created by Bigbear on 4/5/24.
+//
+
 public class TreeNode {
     public var val: Int
     public var left: TreeNode?
@@ -12,6 +19,7 @@ public class TreeNode {
 }
 
 class Solution {
+    static
     func rangeSumBST(_ root: TreeNode?, _ low: Int, _ high: Int) -> Int {
         guard let root = root else {
             return 0
@@ -33,10 +41,10 @@ class Solution {
         return sum
     }
     
+    static
     func run() {
         let root = TreeNode(10, TreeNode(5, TreeNode(3), TreeNode(7)), TreeNode(15, nil, TreeNode(18)))
-        let solution = Solution()
-        print(solution.rangeSumBST(root, 7, 15)) // Kết quả mong đợi: 32
+        print(Solution.rangeSumBST(root, 7, 15)) // Output: 32
     }
     
 }

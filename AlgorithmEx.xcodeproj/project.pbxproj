@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9C1B73322BE63D7B00D161BC /* 1108. Defanging an IP Address.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C1B73312BE63D7B00D161BC /* 1108. Defanging an IP Address.swift */; };
+		9C1B73342BE6408300D161BC /* 2011. Final Value of Variable After Performing Operations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C1B73332BE6408300D161BC /* 2011. Final Value of Variable After Performing Operations.swift */; };
+		9C1B73362BE7367400D161BC /* 771. Jewels and Stones.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C1B73352BE7367400D161BC /* 771. Jewels and Stones.swift */; };
+		9C1B73382BE73FFD00D161BC /* 2942. Find Words Containing Character.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C1B73372BE73FFD00D161BC /* 2942. Find Words Containing Character.swift */; };
+		9C456A142BEB60A80055FCF5 /* 1221. Split a String in Balanced Strings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C456A132BEB60A80055FCF5 /* 1221. Split a String in Balanced Strings.swift */; };
 		9C59BA982BE350C800B8DC7D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C59BA972BE350C800B8DC7D /* AppDelegate.swift */; };
 		9C59BA9A2BE350C800B8DC7D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C59BA992BE350C800B8DC7D /* SceneDelegate.swift */; };
 		9C59BA9F2BE350C800B8DC7D /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 9C59BA9E2BE350C800B8DC7D /* Base */; };
@@ -15,6 +20,7 @@
 		9C59BAC92BE3510700B8DC7D /* MainVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C59BAC72BE3510700B8DC7D /* MainVC.swift */; };
 		9C59BACA2BE3510700B8DC7D /* MainVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9C59BAC82BE3510700B8DC7D /* MainVC.xib */; };
 		9C59BACD2BE351CA00B8DC7D /* 938. Range Sum of BST.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C59BACC2BE351CA00B8DC7D /* 938. Range Sum of BST.swift */; };
+		9CC2F7892BEA201B00BC1B31 /* 2000. Reverse Prefix of Word.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CC2F7882BEA201B00BC1B31 /* 2000. Reverse Prefix of Word.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +41,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9C1B73312BE63D7B00D161BC /* 1108. Defanging an IP Address.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1108. Defanging an IP Address.swift"; sourceTree = "<group>"; };
+		9C1B73332BE6408300D161BC /* 2011. Final Value of Variable After Performing Operations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2011. Final Value of Variable After Performing Operations.swift"; sourceTree = "<group>"; };
+		9C1B73352BE7367400D161BC /* 771. Jewels and Stones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "771. Jewels and Stones.swift"; sourceTree = "<group>"; };
+		9C1B73372BE73FFD00D161BC /* 2942. Find Words Containing Character.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2942. Find Words Containing Character.swift"; sourceTree = "<group>"; };
+		9C456A132BEB60A80055FCF5 /* 1221. Split a String in Balanced Strings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1221. Split a String in Balanced Strings.swift"; sourceTree = "<group>"; };
 		9C59BA942BE350C800B8DC7D /* AlgorithmEx.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AlgorithmEx.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C59BA972BE350C800B8DC7D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9C59BA992BE350C800B8DC7D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -47,6 +58,7 @@
 		9C59BAC72BE3510700B8DC7D /* MainVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainVC.swift; sourceTree = "<group>"; };
 		9C59BAC82BE3510700B8DC7D /* MainVC.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MainVC.xib; sourceTree = "<group>"; };
 		9C59BACC2BE351CA00B8DC7D /* 938. Range Sum of BST.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "938. Range Sum of BST.swift"; sourceTree = "<group>"; };
+		9CC2F7882BEA201B00BC1B31 /* 2000. Reverse Prefix of Word.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2000. Reverse Prefix of Word.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +104,12 @@
 		9C1B732A2BE6154800D161BC /* String */ = {
 			isa = PBXGroup;
 			children = (
+				9C1B73312BE63D7B00D161BC /* 1108. Defanging an IP Address.swift */,
+				9C1B73332BE6408300D161BC /* 2011. Final Value of Variable After Performing Operations.swift */,
+				9C1B73352BE7367400D161BC /* 771. Jewels and Stones.swift */,
+				9C1B73372BE73FFD00D161BC /* 2942. Find Words Containing Character.swift */,
+				9CC2F7882BEA201B00BC1B31 /* 2000. Reverse Prefix of Word.swift */,
+				9C456A132BEB60A80055FCF5 /* 1221. Split a String in Balanced Strings.swift */,
 			);
 			path = String;
 			sourceTree = "<group>";
@@ -320,10 +338,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9C1B73362BE7367400D161BC /* 771. Jewels and Stones.swift in Sources */,
 				9C59BAC92BE3510700B8DC7D /* MainVC.swift in Sources */,
 				9C59BACD2BE351CA00B8DC7D /* 938. Range Sum of BST.swift in Sources */,
 				9C59BA982BE350C800B8DC7D /* AppDelegate.swift in Sources */,
+				9C1B73382BE73FFD00D161BC /* 2942. Find Words Containing Character.swift in Sources */,
 				9C59BA9A2BE350C800B8DC7D /* SceneDelegate.swift in Sources */,
+				9CC2F7892BEA201B00BC1B31 /* 2000. Reverse Prefix of Word.swift in Sources */,
+				9C1B73322BE63D7B00D161BC /* 1108. Defanging an IP Address.swift in Sources */,
+				9C456A142BEB60A80055FCF5 /* 1221. Split a String in Balanced Strings.swift in Sources */,
+				9C1B73342BE6408300D161BC /* 2011. Final Value of Variable After Performing Operations.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
